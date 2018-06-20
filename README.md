@@ -23,11 +23,11 @@ https://www.linkedin.com/in/titozwane/
 # Skills  in order of comfortability:
 
 Front End:
-HTML5, CSS3, SCSS, React JavaScript, jQuery, AngularJS
+PHP 6, CSS3,SCSS,HTML5, JavaScript,jQuery,AngularJS,React
 Back End:
-Ruby on Rails, Express, Node.js, Express, MongoDB, SQL Database
+mySQL, SQL, Express,Node.js, MongoDB
 Test Driven Development:
-Karma,Mocha,Chai
+Karma,Mocha,Chai, Svn, Springloops
 
 
 
@@ -74,6 +74,19 @@ It was a fun but very challenging game to build which is  set at a night carniva
 
 Work Experience
 
+# Demomedia Junior Web developer Feb 2018 - June 2018
+DemoMedia provides a full range of digital design services from web through to print and online branding. As a web developer I worked to:
+Address bug issues and fixes on platform.
+Communicate with Demomeida clients and update all website/platforms made with Demomedia
+Update and fix marketing site for Demomedia.
+
+# Eventogy Software Engineer Feb 2018 - June 2018
+Eventogy is a simple, secure and scalable corporate conferences and events management platform. As a php web developer I worked to:
+Follow trello ticket board to fix any bugs with the platform.
+Place new features asked from senior engineers.
+Create new themes/website that are integrated within the Eventogy platform.
+Engaging with clients via phone and email with Support of platform.
+
 # Fuse Afrika project, Johannesburg and Dar es Salaam – Director. 
 Fuse Afrika project is an experimental fusion musical concept that challenges and questions ideas around culture, language, and upbringing by working collaboratively with people of different backgrounds and ideologies through art and music.
 As director of the project I worked to:
@@ -106,8 +119,6 @@ Audio Engineering
 Sound capturing and processing
 Digital audio capturing and processing
 Audio mixing
-
-
 
 C.T.I. International Diploma in Computer Studies-South Africa
 2007 - 2008

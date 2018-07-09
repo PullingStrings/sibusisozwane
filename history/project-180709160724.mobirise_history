@@ -34,12 +34,11 @@
     },
     "versionFirst": "4.4.1",
     "uniqCompNum": 30,
-    "versionPublish": "4.8.1",
+    "versionPublish": "4.4.1",
     "favicon": "@PROJECT_PATH@/assets/images/rock-out-icon-128x128.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "siteFonts": []
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
